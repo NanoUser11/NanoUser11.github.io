@@ -1,21 +1,21 @@
 
-Package: com.mrblackhat.vpnproxymaster++
+Package: com.nanouser.vpnproxymaster++
 Architecture: iphoneos-arm
 Version: 5.1.1-1+debug
 Section: Tweaks
-Maintainer: MrBlackHat <meblackhat@protonmail.com>
+Maintainer: NanoUser
 Installed-Size: 148
 Depends: mobilesubstrate
-Filename: ./debfiles/com.mrblackhat.vpnproxymaster++.deb
+Filename: ./debfiles/com.nanouser.vpnproxymaster++.deb
 Size: 9534
 
 
-Package: com.mrblackhat.words2++
+Package: com.nanouser.words2++
 Architecture: iphoneos-arm
 Version: 13.90.6-1+debug
 Section: Tweaks
-Maintainer: MrBlackHat <meblackhat@protonmail.com>
+Maintainer: nanouser
 Installed-Size: 148
 Depends: mobilesubstrate
-Filename: ./debfiles/com.mrblackhat.words2++.deb
+Filename: ./debfiles/com.nanouser.words2++.deb
 Size: 7760
