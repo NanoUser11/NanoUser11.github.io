@@ -1,0 +1,34 @@
+Package: com.nanouser.vpnproxymaster++
+Architecture: iphoneos-arm
+Version: 5.1.1-1+debug
+Section: Tweaks
+Maintainer: 
+Installed-Size: 148
+Depends: mobilesubstrate
+Filename: ./debfiles/com.nanouser.vpnproxymaster++.deb
+Size: 9534
+MD5sum: 07b8b412df9112ab102e24018f9b2603
+SHA1: c5acae0f6de43e69de17b4a4231003ff527ccf50
+SHA256: 6c0cd7869a2cf42789dfd2b9b42f422163771ae938253ad7f11ba91e601f0c41
+SHA512: 4684d1c58a6e8c0050378d57ef20e5010d1b1cf779cf1631c038f03ea741c68c2d6967dba615b1e59007ba92dd1604df9035fd40945adb0b1e4be5112472a477
+Description: VPN Proxy Master Free VIP.
+Name: VPN Proxy Master++
+Author: nanouser
+
+
+Package: com.nanouser.words2++
+Architecture: iphoneos-arm
+Version: 13.90.6-1+debug
+Section: Tweaks
+Maintainer: nanouser 
+Installed-Size: 148
+Depends: mobilesubstrate
+Filename: ./debfiles/com.nanouser.words2++.deb
+Size: 7760
+MD5sum: 3d7289d1be889cc559458dac7462ce83
+SHA1: 5a87d0145a6b1db0b21aedc0a4cec93945dffabd
+SHA256: 24c875cfaa6c0bce7b2514a3a620648fcc7c596a4ada16d88ed87d686bcc4862
+SHA512: 2c91f63fc50b3bb70a5632950b57f623deb9913ce9515b4476a03a5f4bc79019d4a2e29715fa07567e3dc1cbfdf7a72ca4553fa424ceb78f5511e21bdb4c05fb
+Description: Words With Friends 2 - No Banner ads and No in move ads.
+Name: Words 2++
+Author: nanouser
